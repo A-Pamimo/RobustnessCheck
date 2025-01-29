@@ -1,0 +1,6 @@
+Processing completed at: 2024-12-02 00:13:13
+Input NetCDF file: ncfiles/ethiopia_CHIRPS_precipitation_post_2018.nc
+Input shapefile: eth_adm_csa_bofedb_2021_shp/eth_admbnda_adm3_csa_bofedb_2021.shp
+Time period processed: 2018-01-01 00:00:00 to 2024-10-01 00:00:00
+Number of administrative units: 1082
+Climatology period: 2018-01-01 00:00:00 to 2024-10-01 00:00:00

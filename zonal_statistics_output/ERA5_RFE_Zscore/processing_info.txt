@@ -1,0 +1,7 @@
+Processing completed at: 2024-12-02 10:23:29
+Input NetCDF file: C:\Users\olanrewaju\Downloads\data_0.nc
+Input shapefile: eth_adm_csa_bofedb_2021_shp/eth_admbnda_adm3_csa_bofedb_2021.shp
+Time period processed: 2024-03-01 00:00:00 to 2024-10-01 00:00:00
+Number of administrative units: 1082
+Climatology period: 1950-01-01 00:00:00 to 2024-10-01 00:00:00
+Spatial extent: Lat [3.50, 14.70], Lon [33.00, 47.40]

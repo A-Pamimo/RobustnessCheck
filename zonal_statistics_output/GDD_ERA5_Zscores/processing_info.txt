@@ -1,0 +1,8 @@
+Processing completed at: 2024-12-26 15:26:21
+Input NetCDF file: ncfiles/2m temp ERA5.nc
+Input shapefile: eth_adm_csa_bofedb_2021_shp/eth_admbnda_adm3_csa_bofedb_2021.shp
+Time period processed: 2018-01-01 00:00:00 to 2024-11-01 00:00:00
+Number of administrative units: 1082
+Base temperature: 10°C
+Upper threshold: 35°C
+Spatial extent: Lat [3.50, 14.70], Lon [33.00, 47.40]
